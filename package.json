@@ -1,0 +1,16 @@
+{
+  "name": "unaccountable-locket-appoint",
+  "productName": "unaccountable-locket-appoint",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "benec",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "6.6.6"
+  }
+}
